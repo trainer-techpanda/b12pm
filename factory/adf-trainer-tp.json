@@ -1,0 +1,15 @@
+{
+	"name": "adf-trainer-tp",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b56b19e3-a21b-4c49-b891-dba9a189fa1f",
+		"tenantId": "5d646c20-1263-4c94-97d3-a50c257edbd8"
+	}
+}
