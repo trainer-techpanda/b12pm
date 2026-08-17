@@ -5,6 +5,15 @@
 		"factoryName": {
 			"value": "adf-trainer-tp"
 		},
+		"adls_accountKey": {
+			"value": ""
+		},
+		"Http_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"adls_properties_typeProperties_url": {
+			"value": "https://storageuhh.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},

@@ -7,6 +7,18 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "adf-trainer-tp"
 		},
+		"adls_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'adls'"
+		},
+		"Http_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://raw.githubusercontent.com"
+		},
+		"adls_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://storageuhh.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -33,6 +45,15 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
+					},
+					"adls_accountKey": {
+						"value": "[parameters('adls_accountKey')]"
+					},
+					"Http_properties_typeProperties_url": {
+						"value": "[parameters('Http_properties_typeProperties_url')]"
+					},
+					"adls_properties_typeProperties_url": {
+						"value": "[parameters('adls_properties_typeProperties_url')]"
 					}
 				}
 			},
