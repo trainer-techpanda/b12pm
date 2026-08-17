@@ -8,11 +8,23 @@
 		"adls_accountKey": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
 		"Http_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com"
 		},
 		"adls_properties_typeProperties_url": {
 			"value": "https://storageuhh.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "trainertp.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "db"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "trainer"
 		}
 	}
 }
