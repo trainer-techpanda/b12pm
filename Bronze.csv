@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,customer_email,product_id,product_name,product_category,quantity,unit_price,payment_type,country,last_updated
+1001,2026-01-05,201,John Smith,john.smith@email.com,501,Laptop,Electronics,1,899.99,Credit Card,USA,2026-01-05
+1002,2026-01-06,202,Emma Johnson,emma.johnson@email.com,502,Wireless Mouse,Electronics,2,29.99,PayPal,Canada,2026-01-06
+1003,2026-01-07,203,Michael Brown,michael.brown@email.com,503,Office Chair,Furniture,1,199.99,Debit Card,UK,2026-01-07
+1004,2026-01-08,204,Sophia Davis,sophia.davis@email.com,504,Coffee Maker,Home Appliances,1,79.99,UPI,India,2026-01-08
+1005,2026-01-09,205,Liam Wilson,liam.wilson@email.com,505,Bluetooth Speaker,Electronics,3,49.99,Credit Card,Australia,2026-01-09
+1006,2026-01-10,206,Olivia Martinez,olivia.martinez@email.com,506,Running Shoes,Sports,2,89.50,Net Banking,India,2026-01-10
+1007,2026-01-11,207,Noah Anderson,noah.anderson@email.com,507,Smartphone,Electronics,1,699.00,Credit Card,Germany,2026-01-11
+1008,2026-01-12,208,Ava Thomas,ava.thomas@email.com,508,Backpack,Accessories,2,39.95,PayPal,France,2026-01-12
+1009,2026-01-13,209,James Taylor,james.taylor@email.com,509,Water Bottle,Fitness,5,15.00,Debit Card,Singapore,2026-01-13
+1010,2026-01-14,210,Isabella Moore,isabella.moore@email.com,510,Desk Lamp,Home Decor,1,45.75,Cash,UAE,2026-01-14
