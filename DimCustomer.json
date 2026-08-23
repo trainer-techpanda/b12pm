@@ -1,0 +1,42 @@
+[
+  {
+    "customer_id": 101,
+    "customer_name": "Arun Kumar",
+    "email": "arun@gmail.com",
+    "city": "Chennai",
+    "country": "India",
+    "updated_at": "2026-08-20 09:00:00"
+  },
+  {
+    "customer_id": 102,
+    "customer_name": "Priya Sharma",
+    "email": null,
+    "city": "Mumbai",
+    "country": "India",
+    "updated_at": "2026-08-20 09:05:00"
+  },
+  {
+    "customer_id": 103,
+    "customer_name": "Rahul Verma",
+    "email": "rahul@gmail.com",
+    "city": null,
+    "country": "India",
+    "updated_at": "2026-08-20 09:10:00"
+  },
+  {
+    "customer_id": 104,
+    "customer_name": "Sneha Reddy",
+    "email": "sneha@gmail.com",
+    "city": "Hyderabad",
+    "country": null,
+    "updated_at": "2026-08-20 09:15:00"
+  },
+  {
+    "customer_id": 105,
+    "customer_name": "Vikram Singh",
+    "email": null,
+    "city": "Delhi",
+    "country": "India",
+    "updated_at": "2026-08-20 09:20:00"
+  }
+]
